@@ -1,0 +1,10 @@
+* geodesic
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mgi/geodesic.git   |
+| commit  | 5cf4506  |
+| systems | geodesic |
+|---------+-------------------------------------------|
+
